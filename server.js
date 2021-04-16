@@ -2,7 +2,7 @@
 	const app = express();
 	const bodyParser = require('body-parser');
 
-	app.use(bodyParser.json()}
+	app.use(bodyParser.json())
 	
 	const mockUserData=[
 		{name:'Mark'},
