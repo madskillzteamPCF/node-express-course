@@ -39,8 +39,8 @@
 			message: 'password and username match!',
 			token: 'encrypted token goes here'
 		})
-		}
-	})
+	}
+})
 
 
 	app.listen(8000, function(){
